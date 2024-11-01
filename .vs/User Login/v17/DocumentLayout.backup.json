@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|c:\\users\\user\\onedrive\\desktop\\code.classworks\\user login\\user login\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|solutionrelative:user login\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|c:\\users\\user\\onedrive\\desktop\\code.classworks\\user login\\user login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|solutionrelative:user login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|c:\\users\\user\\onedrive\\desktop\\code.classworks\\user login\\user login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|solutionrelative:user login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|c:\\users\\user\\onedrive\\desktop\\code.classworks\\user login\\user login\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21599D2D-08E9-4875-A853-CD5390F28770}|User Login\\User Login.csproj|solutionrelative:user login\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\AccountServices.cs",
+              "RelativeDocumentMoniker": "User Login\\AccountServices.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\AccountServices.cs",
+              "RelativeToolTip": "User Login\\AccountServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:16:10.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\IAccountService.cs",
+              "RelativeDocumentMoniker": "User Login\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\IAccountService.cs",
+              "RelativeToolTip": "User Login\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:14:12.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\User.cs",
+              "RelativeDocumentMoniker": "User Login\\User.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\User.cs",
+              "RelativeToolTip": "User Login\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:13:09.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\Program.cs",
+              "RelativeDocumentMoniker": "User Login\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Code.ClassWorks\\User Login\\User Login\\Program.cs",
+              "RelativeToolTip": "User Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:09:58.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
